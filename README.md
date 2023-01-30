@@ -6,4 +6,5 @@
 |1|programa0.py|Hola mundo en Phyton3|
 |2|programa1.py|Comentarios multilinea, una linea, concatenacion de dos variables.|
 |3|programa2.py|Formatear variables, errores de llaves y syntaxis.|
-|4|programa3.py||
+|4|programa3.py|Formatear variables de str|
+|5|programa4.py|pregunta un numero y lo combierte de str a int.|
