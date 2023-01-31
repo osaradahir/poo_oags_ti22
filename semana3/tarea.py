@@ -2,7 +2,7 @@
     Programa5
     Nombre:Oscar Adahir GS.
     Fecha:30/01/2023.
-    Descripcion: calcula el area y  perimetro de un triangulo
+    Descripcion: calcula el area y  perimetro de un triangulo.
 """
 lado1= int(input("Lado 1: "))# pide un valor int o float
 lado2= int(input("Lado 2: "))# pide un valor int o float

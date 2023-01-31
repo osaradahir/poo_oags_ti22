@@ -8,3 +8,5 @@
 |3|programa2.py|Formatear variables, errores de llaves y syntaxis.|
 |4|programa3.py|Formatear variables de str|
 |5|programa4.py|pregunta un numero y lo combierte de str a int.|
+|6|tarea.py|calcula el area y  perimetro de un triangulo.|
+|7|programa5.py|calcula el area, perimetro de un circulo y cuadrado.|
