@@ -10,3 +10,4 @@
 |5|programa4.py|pregunta un numero y lo combierte de str a int.|
 |6|tarea.py|calcula el area y  perimetro de un triangulo.|
 |7|programa5.py|calcula el area, perimetro de un circulo y cuadrado.|
+|8|programa6.py|condiciones, estructura de control.|
