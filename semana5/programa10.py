@@ -4,11 +4,11 @@
     Fecha:13/02/2023.
     Descripcion:clases, objetos, 
 """
-class Persona:
-    nombres=None
-    def __int__(self):
-         print("Persona")
+class Persona:# crea un clase
+    nombres=None# declara bariable 
+    def __int__(self):#conductor 
+         print("Persona")# imprime Persona
 
-objeto= Persona()
-objeto1= Persona()
-print(objeto.nombres)
+objeto= Persona()# crea un objeto
+objeto1= Persona()# crea un objeto
+print(objeto.nombres)# imprime variable nombre del objeto
