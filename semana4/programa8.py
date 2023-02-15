@@ -6,14 +6,14 @@
 """
 #numero1 = int(input("ingrese un numero: "))
 #numero2 = int(input("ingrese un numero: "))
-def mayor(numero1: int, numero2: int) -> int:
-    mayor = None
-    if numero1 > numero2: 
-        mayor = numero1
-    elif numero2 > numero1:
+def mayor(numero1: int, numero2: int) -> int:# define un una funcion de numeros enteros 
+    mayor = None# da una variable 
+    if numero1 > numero2: # da una condicion
+        mayor = numero1# revisa si la funcion es igual a numero 1
+    elif numero2 > numero1:#da una condicion  
         mayor = numero2
-    else:
-        mayor = None
+    else:#da una condicion  
+        mayor = None# revisa si la funcion es igual a numero 1
 
     return mayor
 
@@ -21,13 +21,13 @@ print(mayor(3,2))# 3
 print(mayor(2,3))# 3
 print(mayor(3,3))# None
 # version  2
-def mayor (numero1, numero2):
-    if numero1 > numero2:
-        print(numero1)
-    elif numero2 > numero1:
-        print(numero2)
-    else:
-        print(None)
+def mayor (numero1, numero2): # define un una funcion de numeros  
+    if numero1 > numero2:# da una condicion  
+        print(numero1)# imprime numero1
+    elif numero2 > numero1:#da una condicion  
+        print(numero2)# imprime numero2
+    else:#da una condicion  
+        print(None)# imprime None
     
 mayor(3,2)# 3
 mayor(2,3)# 3
