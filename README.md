@@ -12,4 +12,8 @@
 |7|programa5.py|calcula el area, perimetro de un circulo y cuadrado.|
 |8|programa6.py|condiciones, estructura de control.|
 |9|programa7.py|11 verciones de comparacion de dos numeros.|
-|||
+|10|programa10py|herencia.|
+|11|herencia.py|herencia.|
+|12|herencia1.py|herencia.|
+|13|herencia2.py|herencia.|
+|14|herencia3.py|herencia.|
